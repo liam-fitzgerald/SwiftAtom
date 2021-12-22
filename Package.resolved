@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BigInt",
+        "repositoryURL": "https://github.com/attaswift/BigInt.git",
+        "state": {
+          "branch": null,
+          "revision": "0ed110f7555c34ff468e72e1686e59721f2b0da6",
+          "version": "5.3.0"
+        }
+      },
+      {
+        "package": "MurmurHash-Swift",
+        "repositoryURL": "https://github.com/daisuke-t-jp/MurmurHash-Swift",
+        "state": {
+          "branch": null,
+          "revision": "c1faa847a7e4151474f7435afa2e314d5e737fd4",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "swift-parsing",
+        "repositoryURL": "https://github.com/pointfreeco/swift-parsing.git",
+        "state": {
+          "branch": null,
+          "revision": "0f539b4977ee83251bc228dd067cbbe48e1430c2",
+          "version": "0.3.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
